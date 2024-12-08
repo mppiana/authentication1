@@ -96,7 +96,7 @@ function Login() {
             {/* Logo */}
             <center>
                 <img
-                    src="public/img/log.png" // Replace with your actual image path
+                    src="/img/log.png" // Replace with your actual image path
                     alt="NETFLEX"
                     style={{ 
                         width: '100px', // Reduced width
